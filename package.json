@@ -1,5 +1,6 @@
 {
   "name": "tgnotify",
+  "version": "0.0.0",
   "type": "module",
   "bin": "./cli.js",
   "author": {
