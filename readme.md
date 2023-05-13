@@ -6,6 +6,13 @@ python3 train.py && tgnotify -m "Done!" \
   -t <token>
 ```
 
+
+## Installation
+
+```
+npm install -g tgnotify@latest
+```
+
 ### Help
 
 ```
